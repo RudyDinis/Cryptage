@@ -8,6 +8,3 @@ const timer = new Timer({});
 console.log(crypter.crypteText("rudy"))
 
 console.log(decrypter.decrypteText("Ê7öFèS`2Kôûc"))
-
-const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-
